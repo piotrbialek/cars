@@ -1,0 +1,21 @@
+.home_page_foto{
+    width: 200px !important;
+    height: 150px !important;
+}
+
+/*pagination homepage*/
+
+.pager .active a{
+    background-color: blue;
+    color:white;
+
+}
+
+.pager .active a:hover{
+    background-color: blue !important;
+    color:white;
+}
+
+.pager a:hover{
+    background-color:darkblue !important;
+}
